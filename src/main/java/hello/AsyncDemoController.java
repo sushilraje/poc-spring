@@ -50,8 +50,8 @@ public class AsyncDemoController {
 
     /**
      * Calls two rest APIs Asynchronously
-     * First to list multiple users (with dalay)
-     * Second to list single user (without delay)
+     * First to list single user (without delay)
+     * Second to list multiple users (with dalay)
      *        (Notice the order of responses for Asynchronous calls)
      * @param delay
      * @return combined object users
