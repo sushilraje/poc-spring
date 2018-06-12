@@ -1,4 +1,6 @@
 # poc-spring
+<Test Logging, DI and all other features>
+
 <To Do Add more advanced features>
 
 This is POC project for spring Request Mapping and async rest request
