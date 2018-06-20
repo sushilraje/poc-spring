@@ -36,6 +36,8 @@ public class AsyncDemoController {
 
     /**
      * outputs list of users with delayed response (simulating DB fetch)
+     * This API can o/p variable number of records nested inside data property of the JSON.
+     * But with this no ObjectMapper is required.
      * @param delay
      * @return Multiple Users
      */
